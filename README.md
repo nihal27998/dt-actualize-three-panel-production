@@ -125,10 +125,6 @@ Designed and implemented a **multi-stage hiring funnel system** that:
 
 ---
 
-##  System Snapshots
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/de7a5651-61b6-483e-8cad-bd7b565609d5" />
-
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/6a6090e1-30c3-402b-9c91-7d33a3a464e8" />
 
 
 ---
